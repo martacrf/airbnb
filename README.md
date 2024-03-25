@@ -20,11 +20,9 @@ As a real state investor, I am interested in acquiring a property in Lisbon. I w
 
 #Goal:
 
-In this EDA we are going to focus on 2 questions:
+In this EDA we are going to focus on the question:
 
 1 - Where should I invest based on price and property quantity?
-
-2 - Does review rating influence property prices?
 
 #File organization:
 1 - Report Overview
